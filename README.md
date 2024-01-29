@@ -145,7 +145,160 @@ In the rapidly evolving field of technology, staying updated with the latest tre
 ## All Things Distributed
 49. All Things Distributed - [https://lnkd.in/emXaQDaS](https://lnkd.in/emXaQDaS)
 
+## Apple
+50. Apple Engineering Insights - [https://engineering.apple.com/](#)
+
+## Nvidia
+51. Nvidia Developer Blog - [https://developer.nvidia.com/blog/](#)
+
+## Intel
+52. Intel Software Blog - [https://software.intel.com/content/www/us/en/develop/home.html](#)
+
+## AMD
+53. AMD Developer Central - [https://developer.amd.com/](#)
+
+## Oracle
+54. Oracle Developers Blog - [https://developer.oracle.com/](#)
+
+## SAP
+55. SAP Engineering Blog - [https://blogs.sap.com/](#)
+
+## IBM
+56. IBM Developer Blog - [https://developer.ibm.com/blogs/](#)
+
+## Dell Technologies
+57. Dell Engineering Blog - [https://engineering.dell.com/](#)
+
+## Cisco
+58. Cisco Engineering Blog - [https://blogs.cisco.com/engineering](#)
+
+## HP Inc.
+59. HP Tech Takes - [https://www.hp.com/us-en/shop/tech-takes.html](#)
+
+## Salesforce
+60. Salesforce Developers Blog - [https://developer.salesforce.com/blogs/](#)
+
+## VMware
+61. VMware Engineering Blog - [https://blogs.vmware.com/](#)
+
+## Adobe
+62. Adobe Tech Blog - [https://medium.com/adobetech](#)
+
+## Symantec
+63. Symantec Security Blog - [https://www.symantec.com/blogs/](#)
+
+## Autodesk
+64. Autodesk Engineering Blog - [https://www.autodesk.com/redshift/engineering/](#)
+
+## Atlassian
+65. Atlassian Developer Blog - [https://developer.atlassian.com/blog/](#)
+
+## Red Hat
+66. Red Hat Developer Blog - [https://developers.redhat.com/blog/](#)
+
+## Square
+67. Square Developer Blog - [https://developer.squareup.com/blog/](#)
+
+## Broadcom
+68. Broadcom Community Tech Blog - [https://community.broadcom.com/](#)
+
+## Qualcomm
+69. Qualcomm Developer Blog - [https://developer.qualcomm.com/blog](#)
+
+## Sony
+70. Sony Developer World - [https://developer.sony.com/](#)
+
+## Philips
+71. Philips Engineering Blog - [https://www.philips.com/a-w/about/innovation.html](#)
+
+## Panasonic
+72. Panasonic Innovations Blog - [https://www.panasonic.com/global/corporate/technology-design/innovation.html](#)
+
+## LG Electronics
+73. LG Tech Blog - [https://www.lg.com/global/lg-tech-blog](#)
+
+## Huawei
+74. Huawei Developer Blog - [https://developer.huawei.com/consumer/en/blog/](#)
+
+## Xiaomi
+75. Xiaomi Engineering Blog - [https://engineering.xiaomi.com/](#)
+
+## Ericsson
+76. Ericsson Tech Blog - [https://www.ericsson.com/en/blog](#)
+
+## Nokia
+77. Nokia Blog - [https://www.nokia.com/blog/](#)
+
+## Lenovo
+78. Lenovo Tech Blog - [https://tech.lenovo.com/](#)
+
+## HTC
+79. HTC Blog - [https://blog.htc.com/](#)
+
+## GoPro
+80. GoPro Engineering Blog - [https://engineering.gopro.com/](#)
+
+## Fitbit
+81. Fitbit Engineering Blog - [https://engineering.fitbit.com/](#)
+
+## Garmin
+82. Garmin Engineering Blog - [https://engineering.garmin.com/](#)
+
+## Bose
+83. Bose Engineering Blog - [https://engineering.bose.com/](#)
+
+## Logitech
+84. Logitech Tech Blog - [https://blog.logitech.com/](#)
+
+## Western Digital
+85. Western Digital Blog - [https://blog.westerndigital.com/](#)
+
+## Kingston Technology
+86. Kingston Tech Blog - [https://www.kingston.com/unitedstates/en/community](#)
+
+## Seagate
+87. Seagate Blog - [https://www.seagate.com/news/](#)
+
+## Micron Technology
+88. Micron Technology Blog - [https://www.micron.com/about/blog](#)
+
+## Corsair
+89. Corsair Blog - [https://www.corsair.com/blog/](#)
+
+## Razer
+90. Razer Insider - [https://insider.razer.com/](#)
+
+## Netgear
+91. Netgear Blog - [https://blog.netgear.com/](#)
+
+## Asus
+92. Asus Engineering Insights - [https://www.asus.com/blog/](#)
+
+## Belkin
+93. Belkin Tech Blog - [https://www.belkin.com/blog/](#)
+
+## Akamai
+94. Akamai Blog - [https://blogs.akamai.com/](#)
+
+## Cloudflare
+95. Cloudflare Blog - [https://blog.cloudflare.com/](#)
+
+## Roku
+96. Roku Developer Blog - [https://developer.roku.com/blog](#)
+
+## GoDaddy
+97. GoDaddy Engineering - [https://engineering.godaddy.com/](#)
+
+## McAfee
+98. McAfee Blog - [https://www.mcafee.com/blogs/](#)
+
+## Kaspersky
+99. Kaspersky Lab Blog - [https://www.kaspersky.com/blog/](#)
+
+## Arm
+100. Arm Developer Community - [https://developer.arm.com/blog](#)
+
 ## Riot Games:
-50 . Riot Games - [https://technology.riotgames.com](https://technology.riotgames.com) 
+101 . Riot Games - [https://technology.riotgames.com](https://technology.riotgames.com) 
 
 Compilation creds: John Crickett & Mohamed Abukar
